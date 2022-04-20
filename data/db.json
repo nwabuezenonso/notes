@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "javascript",
+      "details": "i love javascript and i love to code",
+      "category": "money",
+      "id": 3
+    },
+    {
+      "title": "must make that paper",
+      "details": "i am going to work harder than the way i worked before and i must make that paper",
+      "category": "reminders",
+      "id": 4
+    },
+    {
+      "title": "Adding another data",
+      "details": "just adding another set of dta",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "something that i have to do ",
+      "details": "I need to water the plant",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "Adding a new item",
+      "details": "    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae cupiditate repellat eum quod dolorem possimus quae unde dicta perspiciatis explicabo. Temporibus, fugit enim autem adipisci illo error aperiam ducimus, totam sequi nostrum rem perspiciatis. Aspernatur, dicta consectetur! Maiores, veritatis sint.",
+      "category": "todos",
+      "id": 7
+    }
+  ]
+}
